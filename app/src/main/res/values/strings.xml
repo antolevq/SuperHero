@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SuperHero</string>
+    <string name="list_title">SuperHeroes</string>
+    <string name="read_more">Read more</string>
+</resources>
